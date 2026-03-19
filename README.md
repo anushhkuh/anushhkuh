@@ -2,7 +2,7 @@
 
 Computer Systems Engineering senior at **Arizona State University** (graduating May 2026), building at the intersection of full-stack engineering and machine learning.
 
-📄 [Resume](https://www.overleaf.com/read/szzzpjwznxkw#92b447) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/anushkatiwariasu/) &nbsp;|&nbsp; 📬 atiwar55@asu.edu
+📄 [Resume](https://resumeanushka.tiiny.site) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/anushkatiwariasu/) &nbsp;|&nbsp; 📬 atiwar55@asu.edu
 
 ---
 
