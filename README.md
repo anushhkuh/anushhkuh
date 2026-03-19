@@ -1,4 +1,4 @@
-# Hi, I'm Anushka Tiwari 👩‍💻
+# Hi, I'm Anushka 🦀👩‍💻
 
 Computer Systems Engineering senior at **Arizona State University** (graduating May 2026), building at the intersection of full-stack engineering and machine learning.
 
@@ -34,16 +34,16 @@ Computer Systems Engineering senior at **Arizona State University** (graduating 
 
 ## 🚀 Featured Projects
 
-### 🏨 [SipNSavor](https://github.com/anushhkuh/SipNSavor-Overview) — Hospitality Learning Platform
-Full-stack platform built for **Fairmont Hotels & Resorts** to train 500+ hotel staff. TypeScript · FastAPI · PostgreSQL · Stripe Connect · CI/CD
+###  SipNSavor — Hospitality Learning Platform
+Full-stack platform built for **Fairmont Hotels & Resorts** to train 500+ hotel staff. TypeScript  · PostgreSQL · Stripe Connect · CI/CD
 - 15+ scalable REST API endpoints with role-based access control
 - 90%+ test coverage; CI/CD pipeline reducing deployment time significantly
 - Stripe Connect monetization and secure lesson delivery
 
-### 🤖 [DocuChatbot](https://github.com/anushhkuh/DocuChatbot) — RAG Q&A System
+###  [DocuChatbot](https://github.com/anushhkuh/DocuChatbot) — RAG Q&A System
 Retrieval-Augmented Generation pipeline for semantic document search. Python · LangChain · ChromaDB · Sentence Transformers · Streamlit
 
-### 🎓 [Let's Lock In](https://github.com/anushhkuh/HackASU) — AI Study Platform
+###  [Let's Lock In](https://github.com/anushhkuh/HackASU) — AI Study Platform
 **2nd Place @ HackASU** among 500+ participants. React · Node.js · PostgreSQL · Gemini API · MediaPipe
 - AI-powered study platform for students with ADHD
 - Browser-based attention monitoring with privacy-first design
@@ -59,13 +59,8 @@ Retrieval-Augmented Generation pipeline for semantic document search. Python · 
 
 ---
 
-## 📊 GitHub Stats
 
-[![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushhkuh&show_icons=true&theme=default&hide_border=true)](https://github.com/anushhkuh)
-
----
-
-*Open to new grad & junior SWE roles — May 2026 · F-1 OPT*
+*Open to new grad & junior SWE roles — May 2026 *
 
 ![](https://komarev.com/ghpvc/?username=anushhkuh&color=blue&style=flat)
 
