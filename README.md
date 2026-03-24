@@ -60,7 +60,7 @@ Retrieval-Augmented Generation pipeline for semantic document search. Python · 
 ---
 
 
-*Open to new grad & junior SWE roles — May 2026 *
+Open to new grad & junior SWE roles — May 2026 
 
 ![](https://komarev.com/ghpvc/?username=anushhkuh&color=blue&style=flat)
 
