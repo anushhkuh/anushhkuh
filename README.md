@@ -40,8 +40,7 @@ Full-stack platform built for **Fairmont Hotels & Resorts** to train 500+ hotel 
 - 90%+ test coverage; CI/CD pipeline reducing deployment time significantly
 - Stripe Connect monetization and secure lesson delivery
 
-###  [DocuChatbot](https://github.com/anushhkuh/DocuChatbot) — RAG Q&A System
-Retrieval-Augmented Generation pipeline for semantic document search. Python · LangChain · ChromaDB · Sentence Transformers · Streamlit
+
 
 ###  [Let's Lock In](https://github.com/anushhkuh/HackASU) — AI Study Platform
 **2nd Place @ HackASU** among 500+ participants. React · Node.js · PostgreSQL · Gemini API · MediaPipe
